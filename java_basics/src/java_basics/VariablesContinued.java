@@ -13,7 +13,16 @@ public class VariablesContinued {
 		double decimalVariable = 305.006;
 		boolean decision = true; //can only store true and false values
 		char letter = 'a'; //stores only single characters
-
+		System.out.println(var);
+		System.out.println(v);
+		System.out.println(max);
+		System.out.println(min);
+		System.out.println(smallNumber);
+		System.out.println(bigNumber);
+		System.out.println(decimalVariable);
+		System.out.println(decision);
+		System.out.println(letter);
+		
 	}
 
 }
